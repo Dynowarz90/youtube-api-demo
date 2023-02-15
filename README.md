@@ -1,4 +1,4 @@
-# YouTube API Demo :television:
+# YouTube API Demo 📺
 
 I coded along with [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) to create this React app that demonstrates using API calls to fetch and display information from an API service. We used [Material UI](https://mui.com/), a component library, to quickly build and style our components. 
 
